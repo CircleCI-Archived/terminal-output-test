@@ -1,0 +1,4 @@
+test:
+  override:
+    - chmod +x ./shell_test.sh
+    - ./shell_test.sh
